@@ -1,6 +1,6 @@
 import React from "react";
 import "./Ratings.css";
-import ratings from "../../assets/ratings.png"
+import ratings_temp from "../../assets/ratings_temp.png"
 import ratingline from "../../assets/ratingline.png";
 
 const Ratings = () => {
@@ -8,7 +8,7 @@ const Ratings = () => {
     <div className="ratings container">
       <div className="ratingsallover">
         <img className="ratingline" src={ratingline} alt="" />
-        <img className="ratings-img" src={ratings} alt="" />
+        <img className="ratings-img" src={ratings_temp} alt="" />
         <div className="ratingsall">
           <h1 className="ratingsh1">
             Hire Our Top{" "}
