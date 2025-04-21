@@ -1,0 +1,288 @@
+.marketplace {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #eff1fd;
+  display: flex;
+  flex-direction: column;
+  margin-top: -50px;
+}
+
+.marketplaceh1 {
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  color: #263959;
+}
+
+.marketplacep {
+  color: #263959a6;
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+.all-marketplace1 {
+  display: block;
+}
+
+.marketplacedivshow {
+  width: 259px;
+  height: 222px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 50px;
+}
+
+.marketplacedivshow2 {
+  width: 259px;
+  height: 222px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 20px;
+}
+
+.marketplacedivshow3 {
+  width: 259px;
+  height: 222px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 20px;
+}
+
+.marketplacedivshow4 {
+  width: 259px;
+  height: 222px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.marketplacedivshow5 {
+  width: 259px;
+  height: 222px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.marketplacedivshow6 {
+  width: 259px;
+  height: 222px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.marketplacedivshow7 {
+  width: 259px;
+  height: 222px;
+  border-radius: 15px;
+  margin-left: 20px;
+  background-color: #263959;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.marketplaceicon {
+  width: 45.27px;
+  height: 45.27px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.marketplacedivshowh1 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #263959;
+  margin-top: 30px;
+}
+
+.marketplacedivshowp {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #263959a6;
+  margin-top: 10px;
+}
+
+.p50 {
+  font-weight: 600;
+  font-size: 31.58px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.marketplacedivshowp2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  color: #ffffff;
+  margin-top: 70px;
+  margin-left: 40px;
+}
+
+.all-marketplace2 {
+  display: flex;
+  margin-top: 180px;
+}
+
+.all-marketplace3 {
+  display: flex;
+}
+
+.arrow {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+/* ------------ media query ----------- */
+
+@media (max-width: 768px) {
+  .marketplace {
+    width: 100%;
+    height: 1400px;
+  }
+  .all-marketplace2 {
+    display: block;
+  }
+
+  .all-marketplace3 {
+    display: block;
+  }
+
+  .marketplaceh1 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: -100px;
+  }
+
+  .marketplacep {
+    font-weight: 400;
+    font-size: 8.79px;
+    line-height: 145%;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+
+  .marketplacedivshow {
+    width: 152.72px;
+    height: 130.9px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 65px;
+    margin-top: 20px;
+  }
+
+  .marketplacedivshow2 {
+    width: 152.72px;
+    height: 130.9px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 65px;
+    margin-top: 20px;
+  }
+
+  .marketplacedivshow3 {
+    width: 152.72px;
+    height: 130.9px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 65px;
+    margin-top: 20px;
+  }
+
+  .marketplacedivshow4 {
+    width: 152.72px;
+    height: 130.9px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 65px;
+    margin-top: 20px;
+  }
+
+  .marketplacedivshow5 {
+    width: 152.72px;
+    height: 130.9px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 65px;
+    margin-top: 20px;
+  }
+
+  .marketplacedivshow6 {
+    width: 152.72px;
+    height: 130.9px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 65px;
+    margin-top: 20px;
+  }
+
+  .marketplacedivshow7 {
+    width: 152.72px;
+    height: 130.9px;
+    border-radius: 15px;
+    background-color: #263959;
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 65px;
+    margin-top: 20px;
+  }
+
+  .marketplaceicon {
+    width: 27px;
+    height: 27px;
+    margin-top: 20px;
+    margin-left: 65px;
+  }
+  .marketplacedivshowh1 {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+
+  .marketplacedivshowp {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+
+  .marketplacedivshowp2 {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    margin-top: 30px;
+    margin-left: 10px;
+  }
+
+  .p50 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 120%;
+    letter-spacing: 0%;
+  }
+
+  .arrow {
+    width: 28.3px;
+    margin-left: 10px;
+  }
+}
