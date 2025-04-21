@@ -1,7 +1,7 @@
 import React from "react";
 import "./Ratings.css";
 import ratings from "../../assets/ratings.png";
-import ratingline from "../../assets/ratingline.png"
+import ratingline from "../../assets/ratingline.png";
 
 const Ratings = () => {
   return (
